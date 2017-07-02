@@ -49,4 +49,5 @@ let clone = { ...c };
 //clone.p; // ok, but IDEA dont understand :)
 //clone.m(); // error!
 
+
 console.log("\x1b[32m There's no actions. Just code \x1b[0m");
